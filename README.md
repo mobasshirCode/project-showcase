@@ -1,5 +1,5 @@
 # Project Showcase
-This Project Showcase is made with the help of HTML & CSS.
+This Project Showcase is made with the help of HTML & CSS only.
 <br>
 It is a responsive app optimised for both desktop and mobile phones.
 <br> <br>
